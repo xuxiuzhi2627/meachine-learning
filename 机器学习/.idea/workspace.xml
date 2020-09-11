@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04287477-a5f9-4ee2-a181-969d7d3fb06a" name="Default Changelist" comment="" />
+    <list default="true" id="04287477-a5f9-4ee2-a181-969d7d3fb06a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../numpy/.idea/numpy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numpy/01_属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numpy/02_创建数组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numpy/03_numpy计算.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numpy/04_numpy的索引.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../numpy/05_array的合并.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回归/05_sklearn多元线性回归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回归/05_多元线性回归_3d图.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回归/05_网格散点图测试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回归/06_多项式回归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回归/07_标准方程法_房价预测.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回归/job要求.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/回归/房价.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shujufenxi/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shujufenxi/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shujufenxi/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shujufenxi/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shujufenxi/.idea/shujufenxi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shujufenxi/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shujufenxi/matplotlib/fig1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shujufenxi/matplotlib/fig2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shujufenxi/matplotlib/画图.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shujufenxi/matplotlib/绘制温度变化图.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yolo精讲" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/回归/03_线性回归_梯度下降法.py" beforeDir="false" afterPath="$PROJECT_DIR$/回归/03_线性回归_梯度下降法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/回归/04_sklearn_一元线性回归.py" beforeDir="false" afterPath="$PROJECT_DIR$/回归/04_sklearn_一元线性回归.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +44,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1hBVG2TO5hZ1lg29iz5ZzusSGlc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/回归" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -28,29 +71,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.03_线性回归_梯度下降法">
-    <configuration name="相关系数" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="机器学习" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_线性回归_相关系数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="03_线性回归_梯度下降法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.06_多项式回归">
+    <configuration name="04_sklearn_一元线性回归" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="机器学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回归/03_线性回归_梯度下降法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回归/04_sklearn_一元线性回归.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -71,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="线性回归_决定系数" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05_多元线性回归" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="机器学习" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,11 +101,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/回归" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_线性回归_决定系数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回归/05_多元线性回归_3d图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05_网格散点图测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="机器学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/回归" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回归/05_网格散点图测试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06_多项式回归" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="机器学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/回归" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回归/06_多项式回归.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06_sklearn多元线性回归" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="机器学习" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/回归" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/回归/05_sklearn多元线性回归.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,9 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.03_线性回归_梯度下降法" />
-        <item itemvalue="Python.相关系数" />
-        <item itemvalue="Python.线性回归_决定系数" />
+        <item itemvalue="Python.06_多项式回归" />
+        <item itemvalue="Python.05_多元线性回归" />
+        <item itemvalue="Python.06_sklearn多元线性回归" />
+        <item itemvalue="Python.05_网格散点图测试" />
+        <item itemvalue="Python.04_sklearn_一元线性回归" />
       </list>
     </recent_temporary>
   </component>
@@ -112,5 +199,18 @@
       <updated>1599484372221</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
